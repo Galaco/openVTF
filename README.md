@@ -1,6 +1,5 @@
 # openVTF
-Open Valve Texture Format VTF textures within the browser.
-0 dependencies, all parsing and conversion to rgb(a) handled entirely by the library
+JavaScript library to work with Valve Texture Format images. At present allows reading from only.
 
 # This branch
 My main dev branch. Don't assume this branch works correctly, although it hopefully will. 
